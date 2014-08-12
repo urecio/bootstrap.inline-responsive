@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap.inline-responsive",
+  "version": "0.0.0",
+  "homepage": "https://github.com/urecio/bootstrap.inline-responsive",
+  "authors": [
+    "Moappi"
+  ],
+  "description": "Implements an in-line responsive layout for twitter Bootstrap 3+",
+  "main": "bootstrap.inline-responsive.scss",
+  "keywords": [
+    "bootstrap",
+    "inline",
+    "responsive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
