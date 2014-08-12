@@ -1,3 +1,5 @@
+Forked to add a bower file and a sass version
+
 bootstrap.inline-responsive
 =========
 
